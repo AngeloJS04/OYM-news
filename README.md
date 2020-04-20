@@ -10,6 +10,7 @@ It is necessary to have a unique API KEY to obtain the data of the same
 
 # Script Run
 Ionic serve --lab
+
 this script will open the browser for the developer app http://localhost:8200
 
 # Documentaciones
