@@ -1,3 +1,5 @@
 # OYM-news
+Este proyecto fue creado con IONIC
 
-Aplicacion de noticias usando Angular - Ionic filtrando los datos desde una API externa
+# Scripts Disponibles
+Ionic serve --lab
