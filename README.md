@@ -1,7 +1,5 @@
 # OYM-news
-This project was created with angular-ionic and an external news API by team # 1 of the O&M University device programming class
-
-API: https://newsapi.org/
+This project was created with angular-ionic and an external news API by team # 1 of the O&M University device programming class - API: https://newsapi.org/
 
 # Scripts necesarios
 npm install -g @angular/cli
