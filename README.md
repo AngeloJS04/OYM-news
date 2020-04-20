@@ -13,7 +13,7 @@ Ionic serve --lab
 
 this script will open the browser for the developer app http://localhost:8200
 
-# Documentaciones
+# Documentations
 You can learn more about angular and ionic in the documentation
 
 https://cli.angular.io/
