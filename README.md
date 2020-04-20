@@ -3,9 +3,10 @@ This project was created with angular-ionic and an external news API by team # 1
 
 # Scripts necesarios
 npm install -g @angular/cli
+
 npm install -g @ionic/cli 
 
-*It is necessary to have a unique API KEY to obtain the data of the same
+It is necessary to have a unique API KEY to obtain the data of the same
 
 # Script Run
 Ionic serve --lab
